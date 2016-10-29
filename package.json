@@ -6,6 +6,7 @@
   "description": "A fun bot for PantherHacker's slack!",
   "dependencies": {
     "cleverbot-node": "0.2.1",
+    "flip": "^1.0.0",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-help": "^0.2.0",
